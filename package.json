@@ -24,7 +24,10 @@
     "deploy": "gh-pages -d example/build"
   },
   "peerDependencies": {
-    "react": "^16.0.0"
+    "react": "^16.0.0",
+	"classnames": "^2.2.6",
+    "react-copy-to-clipboard": "^5.0.2",
+    "react-select": "^3.1.0"
   },
   "devDependencies": {
     "microbundle-crl": "^0.13.10",
@@ -49,5 +52,8 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "dependencies": {
+    "detect-browser": "^5.1.1",
+  }
 }

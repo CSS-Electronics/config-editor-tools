@@ -1,10 +1,10 @@
 import React from 'react'
 
-import { ExampleComponent } from 'config-editor-tools'
+import { BitRateModal, FilterModal, EncryptionModal } from 'config-editor-tools'
 import 'config-editor-tools/dist/index.css'
 
 const App = () => {
-  return <ExampleComponent text="Create React Library Example 😄" />
+  return <BitRateModal/>
 }
 
 export default App
