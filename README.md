@@ -1,6 +1,6 @@
-# config-editor-tools
+# Config Editor - Tools Library
 
-> Editor tools for use in React based JSON schema editors
+This project includes editor tools for use in React based JSON Schema editors, incl. the CANedge config editor.
 
 [![NPM](https://img.shields.io/npm/v/config-editor-tools.svg)](https://www.npmjs.com/package/config-editor-tools) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
@@ -11,6 +11,8 @@ npm install --save config-editor-tools
 ```
 
 ## Usage
+
+
 
 ```jsx
 import React, { Component } from 'react'
@@ -25,6 +27,3 @@ class Example extends Component {
 }
 ```
 
-## License
-
-MIT © [MartinF](https://github.com/MartinF)

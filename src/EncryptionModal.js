@@ -319,8 +319,6 @@ class EncryptionModal extends React.Component {
   };
 
   render() {
-    this.checkBrowserVersion();
-
     const { selectedOption } = this.state;
     return (
       <div>

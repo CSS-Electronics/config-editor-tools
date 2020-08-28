@@ -1,8 +1,8 @@
 {
   "name": "config-editor-tools",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Editor tools for use in React based JSON schema editors",
-  "author": "MartinF",
+  "author": "CSS Electronics",
   "license": "MIT",
   "repository": "MartinF/config-editor-tools",
   "main": "dist/index.js",
@@ -54,6 +54,6 @@
     "dist"
   ],
   "dependencies": {
-    "detect-browser": "^5.1.1",
+    "detect-browser": "^5.1.1"
   }
 }
